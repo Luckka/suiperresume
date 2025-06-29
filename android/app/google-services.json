@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "633051112195",
+    "project_id": "resumoturbo",
+    "storage_bucket": "resumoturbo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633051112195:android:1f0cd4ca46f4b5de0bbf36",
+        "android_client_info": {
+          "package_name": "com.lucka.resumoturbo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633051112195-ephq3sj1e8gsrv9etongisouadstvcak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lucka.resumoturbo",
+            "certificate_hash": "eb49a8bbbc8969e04260f3f8e1a0c47ba05fc10f"
+          }
+        },
+        {
+          "client_id": "633051112195-pqi3v91ng36kke9he7t8qgv4i7un28fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBswQJZjmxa5WVOJ08Y7CQ0cZmyJWcwNnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633051112195-pqi3v91ng36kke9he7t8qgv4i7un28fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
