@@ -1,4 +1,4 @@
-package com.example.resumo_turbo
+package com.lucka.resumoturbo
 
 import io.flutter.embedding.android.FlutterActivity
 

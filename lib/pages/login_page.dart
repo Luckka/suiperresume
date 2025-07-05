@@ -3,12 +3,13 @@ import 'package:resumo_turbo/controllers/login_controller.dart';
 
 class LoginPage extends StatelessWidget {
   
-  LoginPage({super.key});
+  const LoginPage({super.key});
 
-  final controller = LoginController();
+  
 
   @override
   Widget build(BuildContext context) {
+    final controller = LoginController();
     return Scaffold(
       body: Padding(
         padding: const EdgeInsets.all(24.0),

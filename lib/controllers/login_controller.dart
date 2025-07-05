@@ -6,6 +6,7 @@ class LoginController {
   final GoogleSignIn _googleSignIn = GoogleSignIn.standard();
 
   Future<void> signInWithGoogle(BuildContext context) async {
+  
     try {
       final GoogleSignInAccount? googleUser = await _googleSignIn.signIn();
       if (googleUser == null) return; // Cancelado
